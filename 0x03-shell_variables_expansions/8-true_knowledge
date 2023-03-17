@@ -1,2 +1,2 @@
 #!/bin/bsh
-echo $((128 + TRUEKNOWLEDGE))
+echo $(($TRUEKNOWLEDGE + 128))
