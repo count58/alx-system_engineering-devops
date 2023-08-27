@@ -1,5 +1,3 @@
-Scenario: A user wants to access the website www.foobar.com.
-
 User's Computer:
 
 User enters https://www.foobar.com in the browser.
