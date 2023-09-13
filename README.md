@@ -1,1 +1,1 @@
-shell permissions
+sytstem devops
